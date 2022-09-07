@@ -26,4 +26,22 @@ Additional considerations:
 -   Is there some state we need to initialize?
 -   Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be reused?)
 
+## HTML
+
+    - h2 for hello
+    - input for name submit button
+    - section as container
+    - div for name display
+
+## EVENTS
+
+    -enter name
+    - click submit
+    - get value input
+    target name element (saves it)
+    changes text context of target name displays to input value
+
+    - clear out input value
+    - reset
+
 ![] (./wireframe/png)
